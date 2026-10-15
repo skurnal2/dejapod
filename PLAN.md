@@ -401,7 +401,7 @@ dejapod/
 
 ## Progress
 
-- [ ] Phase 0: Setup
+- [x] Phase 0: Setup
 - [ ] Python foundations (P1-P11)
 - [ ] Phase 1: Docker basics
 - [ ] Phase 2: Kubernetes by hand
